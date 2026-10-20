@@ -129,3 +129,12 @@ a{
     border: 1px solid whitesmoke;
     border-radius: 999px;
 }
+.rodape{
+    margin-top: 40px;
+    padding: 25px;
+    background-color: rgb(63, 2, 154);
+}
+
+.rodape address{
+    font-style: normal;
+}
